@@ -1,2 +1,1 @@
-# FastGAN-pytorch
-Adobe Bugbounty POC by @nvk0x
+# Adobe Bugbounty POC by @nvk0x
